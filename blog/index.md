@@ -1,27 +1,25 @@
 ---
 title: Blog
-author: drimpossible
+author: bayesianconspirator
 layout: page
 dsq_thread_id:
 date: 2019-03-22
 ---
 
-Welcome to notes of [Dr. Impossible]({{site.baseurl}}/about)! I present to you my random musings on academics. 
+Welcome to notes of the [Bayesian Conspirator]({{site.baseurl}}/about)! 
 
-## Categories
+## Index
 
-[Paper Readings]({{site.baseurl}}/blog/readings)
+####[Help Me!]({{site.baseurl}}/blog/help_me/)
+Things I am struggling with, and need help for. I'd be eternally grateful if you could help me on these, and would gladly reciprocate 
+to the best of my abilities.
 
-My commentary about research papers and interesting directions.  
-  
-[Tutorials]({{site.baseurl}}/blog/tutorials)
+####[Fundamentally Out to Get You]({{site.baseurl}}/blog/crypto/index.md) 
 
-My attempt to summarize 101's on topics. Building blocks for courses I wish I would teach.
-  
-[Research Life]({{site.baseurl}}/blog/life)
+[Migrating to private email clients]({{site.baseurl}}/blog/crypto/)
 
-Musings over social/community aspects of academic life. 
+[Open source, private cloud server!]()
 
-[Philosophy]({{site.baseurl}}/blog/philosophy)
+[A minimalist computer for 150$]()
 
-This section contains my thoughts on broad directions and goals of interesting work, but mostly epistemology.
+[]
