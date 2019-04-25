@@ -1,5 +1,5 @@
 ---
-title: Help Me
+title: Note on Politics
 author: bayesianconspirator
 layout: post
 permalink: "/blog/political_beliefs/"
@@ -12,8 +12,6 @@ tags:
 - people
 date: 2019-04-25
 ---
-
-### Note on Politics
 
 [Epistemic Status: Still forming opinions, this will be a live document and be regularly updated]
 
