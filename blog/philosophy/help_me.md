@@ -22,6 +22,7 @@ help you to the best of my abilities in reciprocation. Hopefully, we make the wo
  
 ## Issues
  
- 
- Needless to say, shoot me an email if you read this and find that I am very suitable to help you on anything, with a few things you are 
- surprisingly good at!
+Currently no issues! 
+
+Needless to say, shoot me an email if you read this and find that I am very suitable to help you on anything, with a few things you are 
+surprisingly good at! 
