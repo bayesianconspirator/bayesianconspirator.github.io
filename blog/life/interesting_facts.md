@@ -2,7 +2,7 @@
 title: Interesting Factoids
 author: bayesianconspirator
 layout: post
-permalink: "/blog/interesting_factoids/"
+permalink: "/blog/interesting_facts/"
 categories:
 - life
 tags:
