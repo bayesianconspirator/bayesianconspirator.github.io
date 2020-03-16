@@ -1,23 +1,13 @@
 ---
 title: Blog
-author: bayesianconspirator
+author: bayesiankitten
 layout: page
 permalink: "/"
 dsq_thread_id:
 date: 2019-03-22
 ---
 
-Welcome to notes of the [Bayesian Conspirator]({{site.baseurl}}/about)! 
-<!-- 
-## Index
+Welcome to the blog of [bayesiankitten]({{site.baseurl}}/about)! 
 
-#### [Help Me!]({{site.baseurl}}/blog/help_me/)
-Call for help on issues I am struggling unsuccesfully with currently. 
+[Note on politics]({{site.baseurl}}/blog/political_beliefs/)
 
-#### [Fundamentally Out to Get You]({{site.baseurl}}/blog/crypto/index.md) 
-
-[Migrating to private email clients]({{site.baseurl}}/blog/crypto/)
-
-[A minimalist computer for 150$]()
-
--->

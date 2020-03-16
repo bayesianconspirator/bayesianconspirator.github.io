@@ -18,7 +18,3 @@ Welcome to notes of [Dr. Impossible]({{site.baseurl}}/about)! I use this to pin 
 [Email & Calendar]({{site.baseurl}}/blog/life/cutting_down_on_google/)- Coming up soon!
 [Cloud]({{site.baseurl}}/blog/life/setting_private_server/)- Coming up soon!
 [Social Media]()- Coming up soon!
-
-### Reviewing
-* [Reviewing: Frustrations]({{{{site.baseurl}}/blog/life/review_frustrations/)- Coming up soon!
-* [Reviewing Guideline]({{site.baseurl}}/blog/life/reviewing_guideline/)- Coming up soon!

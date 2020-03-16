@@ -1,0 +1,1 @@
+https://slatestarcodex.com/2014/05/27/on-types-of-typologies/

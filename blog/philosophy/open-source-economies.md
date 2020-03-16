@@ -1,8 +1,8 @@
 ---
-title: Note on Politics
+title: Open source economies
 author: bayesianconspirator
 layout: post
-permalink: "/blog/open-source-economies/"
+permalink: "/blog/open-source-everything/"
 categories:
 - life
 tags:
@@ -13,9 +13,22 @@ date: 2019-04-25
 
 [Epistemic Status: Wild ideas]
 
+If it moves, open-source it; if it doesn’t move, open-source it. Since everything either moves or doesn’t move, open-source everything succintly captures my  pitch. 
+
+Properties you get with open-source
+
+## Instances
+
+Open-source code:
+
+Open-source hardware:
+
+Open-source peer-review & journals:
+
+Open-source food: 
 
 
-
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2740126
 
 Social currencies run parallel to physical money. The main hypothesis proposed is that everyone is trying to accumulate social currency along with physical money most of the time. Social currency is broadly what people clump together as social status. I have noticed it follows similar trends as like money, with some important differences. 
 

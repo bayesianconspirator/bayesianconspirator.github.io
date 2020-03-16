@@ -26,3 +26,6 @@ Merely a collection of interesting facts I've come across on other blogs and wou
 #### Decentralized Governance
 
   * [Private roads](https://devoelmoorecenter.com/2018/02/28/why-the-u-s-should-adopt-the-nordic-approach-to-private-roads/) are a reality and 
+
+
+https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber
