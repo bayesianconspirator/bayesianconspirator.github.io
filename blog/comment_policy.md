@@ -22,4 +22,4 @@ We may have heated discussions sometimes and that’s cool. It's topics that we 
  * Responding to a post’s tone instead of its actual content.
  * Knee-jerk contradiction
 
-Comments that I find to be hateful, inflammatory, annoying or harassing will probably be removed. I do not submit myself to [Crocker's rules](https://wiki.lesswrong.com/wiki/Crocker%27s_rules) here. Please email me at bayesianconspirator at mailfence dot com for any comment or [anonymous feedback form](https://www.admonymous.co/bayesiankitten), where you may optimize your message for information, and not worry about whether your message will be offensive.
+Comments that I find to be hateful, inflammatory, annoying or harassing will probably be removed. I do not submit myself to [Crocker's rules](https://wiki.lesswrong.com/wiki/Crocker%27s_rules) here. Please email me at bayesiankitten+blog at mailfence dot com for any comment or [anonymous feedback form](https://www.admonymous.co/bayesiankitten), where you may optimize your message for information, and not worry about whether your message will be offensive.
