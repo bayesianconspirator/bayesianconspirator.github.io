@@ -10,21 +10,12 @@ Table of Contents     [About Me](#aboutme) [Things ]()
 
 ## <a name="aboutme" id="aboutme"></a>About me
 
-Hi! I’m Ameya, and since you're reading this: a-may-yeah (as in __a__ book, __may__ I?, __yeah__ sure!). 
+Hi! I’m Ameya, and since you're reading this: a-may-yeah (as in __a__ book, __may__ I?, __yeah__ sure!). I like to think about **the future** in general, currently excited about intelligent assistance (IA) and it's ability to massively reduce effort for people across broad real-world situations from academia with automated theorem provers, decoupling confounders for causal analysis to digitizing governance systems with mechanism design, open-source public platforms and law to build knowledge from case law and speed up the more boring aspects. I Serious researchers in these fields summarize my views combining curiousity and naiveness as "cute", which inspired the "kitten" part of this blog's title. 
 
-I really like writing, but often don’t do as much of it as I’d like.
+I also love reading [crazy](https://en.wikipedia.org/wiki/Invented_tradition) [ethnographies](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years) which helps me develop [epistemic humility](https://en.wikipedia.org/wiki/Epistemic_humility). I have the motto of ["Never underestimate the diversity of experiences people have"](https://slatestarcodex.com/2017/10/02/different-worlds/), and love trying to grapple with theories of social cognition, development of group norms and eventually culture. Well, I do read a lot of [aspiring](https://astralcodexten.substack.com/)-[rationalist](https://www.lesswrong.com/recommendations) and [pop](https://marginalrevolution.com/)-[economics](https://www.econtalk.org/) blogs with a sprinkle of [effective](https://forum.effectivealtruism.org/)-altruist and stat blogrolls. I love going out for hikes outside the concrete jungle, capturing cool birds and animals (in my camera)! 
 
-If we are into categorization, here are a few. 
+One way to tell y'all about myself is categorizing myself, aka with fake frameworks: These ontologies make things seem real. My jungian personality type has consistently been INTJ, dominated by Ni and Te; or my MTG Color Wheel results have been dominated by Blue and Red with a White tinge. But the correlations might be co-incidental as Marx succinctly said, "A black cat crossing your path signifies that the animal is going somewhere". Politically, I am  off-the-spectrum, the primary issues I care deeply about are animal rights, digital privacy, slow science or free and open-source software and such. I really like writing, but often don’t do as much of it as I’d like. 
 
-The category of a [socially anxious extrovert](https://jesswhittlestone.com/blog/2020/11/1/being-a-socially-anxious-extrovert) describes me perfectly -- I love to meet new people, hang and have fun but  around people 
-
-Welcome to my blog, containing most of my more polished armchair theories and journalistic attempts. I also love meeting people face to face; I predict that if you enjoy this blog you will enjoy hanging out with me.
-
-
-Here is a archive of [recent blogs I like]().
-
- This github username was created when in high school, as a battle against the impossible dream of being "Dr. Ameya" (pun intended) and motivation for it.
-
-I like to think about **the future** in general, currently intrigued by intelligent assistance (IA) with applications in computational economics, automated theorem provers, innovations in social policy and constitutional law. I want to dedicate my career towards designing principled algorithms to acquire more general notions of "learnability" and help better automating tasks (like proving tedious theorems) and also assist humans for other stuff. Serious researchers think it's cute when I talk about theories of market matching, social cognition, mechanism design,  etc. I'm wayy too  excited by cool topics and their insights.
+Well at some point I thought math was complex and elegant. Now I agree with Von Neumann's statement "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is". I want to dedicate my career towards designing principled algorithms to acquire more general notions of "learnability" and help better automating tasks (like proving tedious theorems and also assist humans for other stuff. I work as a DPhil student exploring this problem at the Torr Vision Group, Oxford. If the last paragraph interests you more than anything else written here, you might want to check out [my work blog](https://drimpossible.github.io).
 
 ---

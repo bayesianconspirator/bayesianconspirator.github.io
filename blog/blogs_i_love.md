@@ -1,6 +1,6 @@
 ---
-title: Help Me
-author: bayesianconspirator
+title: Blogs I Recommend
+author: bayesiankitten
 layout: post
 permalink: "/blog/blogs_i_love/"
 categories:

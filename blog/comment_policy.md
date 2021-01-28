@@ -1,6 +1,6 @@
 ---
 title: Comment Policy
-author: bayesianconspirator
+author: bayesiankitten
 layout: post
 permalink: "/blog/comment_policy/"
 categories:
